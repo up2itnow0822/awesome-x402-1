@@ -170,7 +170,7 @@ Client libraries for making x402 payments.
 - [Azeth SDK](https://github.com/azeth-protocol/sdk) - TypeScript SDK with x402 client (`fetch402`), ERC-4337 smart accounts, on-chain reputation feedback after every x402 call, and ERC-8004 service discovery. USDC on Base. ([npm](https://www.npmjs.com/package/@azeth/sdk))
 
 **Wallet Integration**
-- [Agent Wallet SDK](https://www.npmjs.com/package/agentwallet-sdk) - Non-custodial smart contract wallets for AI agents with on-chain spend limits and operator model. Base L2. ([npm](https://www.npmjs.com/package/agentwallet-sdk))
+- [Agent Wallet SDK](https://github.com/up2itnow0822/agent-wallet-sdk) - Non-custodial smart contract wallets for AI agents with on-chain spend limits and operator model. x402 support on Base (primary) and Etherlink (Tezos L2) — one of the first SDKs to span both x402 chains. ERC-6551, CCTP cross-chain. ([npm](https://www.npmjs.com/package/agentwallet-sdk))
 - [viem](https://viem.sh/) - TypeScript library used for signing payments.
 - [ethers.js](https://docs.ethers.org/) - Alternative Ethereum library.
 
